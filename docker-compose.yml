@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  xmrig:
+    restart: always
+    hostname: xmrig
+    container_name: xmrig
+    build: ./
