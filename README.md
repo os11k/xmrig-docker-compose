@@ -13,6 +13,7 @@ Please update Dockerfile and change your pool address and wallet address, maybe 
 apt-get update && apt-get upgrade -y && apt-get install docker-compose -y
 mkdir /docker && cd /docker
 git clone https://github.com/os11k/xmrig-docker-compose.git
+cd ./xmrig-docker-compose/
 docker-compose up -d --build
 ```
 
