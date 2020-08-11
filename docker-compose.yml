@@ -6,3 +6,6 @@ services:
     hostname: xmrig
     container_name: xmrig
     build: ./
+    logging:
+      options:
+        max-size: 50m
