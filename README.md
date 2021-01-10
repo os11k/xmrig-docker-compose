@@ -22,3 +22,4 @@ If this image helped you mine Monero, please feel free to send a donation my way
 
 * XMR: `47awNeyfVMgBxARBh19jSFCPTDxuFbVdyD9evJgr69b1TCVAcXEAzvNdjjPZ8ErEegBWysdoducfvH7W5DUEBbMBQuCXnQT`
 * BTC: `3HsqyC1434CPoffZv9ygptHAyKCFijYefR`
+* ETH: `0x8c067F138684cebF7e39BF6F1D113C273D14Eff6`
