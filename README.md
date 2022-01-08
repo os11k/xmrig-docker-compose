@@ -17,6 +17,16 @@ cd ./xmrig-docker-compose/
 docker-compose up -d --build
 ```
 
+### Host server configuration for better hashrate
+You need to load msr module:
+
+```
+modprobe msr allow_writes=on
+```
+
+If it doesn't help, check this manual:
+https://xmrig.com/docs/miner/randomx-optimization-guide/msr
+
 ### Donations
 If this image helped you mine Monero, please feel free to send a donation my way!
 
