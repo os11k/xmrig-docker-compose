@@ -33,6 +33,4 @@ If this image helped you mine Monero, please feel free to send a donation my way
 * XMR:`47awNeyfVMgBxARBh19jSFCPTDxuFbVdyD9evJgr69b1TCVAcXEAzvNdjjPZ8ErEegBWysdoducfvH7W5DUEBbMBQuCXnQT`
 * BTC:`3HsqyC1434CPoffZv9ygptHAyKCFijYefR`
 * ETH:`0x8c067F138684cebF7e39BF6F1D113C273D14Eff6`
-* ADA:
-
-`addr1q8a8j3v0aqqxhvkprrkp858qyrmzw63ke0ykpmqwnfpp0rfpxs6qm3uphaf0xnjq55u8kqgflaz02322298r2nukpkps8xmm85`
+* ADA:`addr1q8a8j3v0aqqxhvkprrkp858qyrmzw63ke0ykpmqwnfpp0rfpxs6qm3uphaf0xnjq55u8kqgflaz02322298r2nukpkps8xmm85`
