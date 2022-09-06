@@ -19,4 +19,4 @@ cd build && \
 cmake .. && \
 make -j$(nproc)
 
-CMD ["/usr/src/xmrig/build/xmrig", "--max-cpu-usage=100", "--cpu-priority=5", "-o", "pool.minexmr.com:4444", "-u", "47awNeyfVMgBxARBh19jSFCPTDxuFbVdyD9evJgr69b1TCVAcXEAzvNdjjPZ8ErEegBWysdoducfvH7W5DUEBbMBQuCXnQT"]
+CMD ["/usr/src/xmrig/build/xmrig", "--max-cpu-usage=100", "--cpu-priority=5", "--coin=XMR", "--tls", "-o", "xmr.2miners.com:12222", "-u", "47awNeyfVMgBxARBh19jSFCPTDxuFbVdyD9evJgr69b1TCVAcXEAzvNdjjPZ8ErEegBWysdoducfvH7W5DUEBbMBQuCXnQT", "-p", "x"]
